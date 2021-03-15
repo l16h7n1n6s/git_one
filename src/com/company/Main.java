@@ -7,5 +7,7 @@ public class Main {
         System.out.println("first init");
         System.out.println("third init");
 
+        System.out.println("feature_branch");
+
     }
 }
