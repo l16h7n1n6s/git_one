@@ -10,5 +10,7 @@ public class Main {
         System.out.println("feature_branch");
         System.out.println("feature_branch2");
 
+        System.out.println("branch_new");
+
     }
 }
