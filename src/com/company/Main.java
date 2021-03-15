@@ -17,6 +17,11 @@ public class Main {
         System.out.println("master3");
         System.out.println("master2");
         System.out.println("master4");
+        System.out.println("branch_new1");
+        System.out.println("branch_new2");
+        System.out.println("branch_new3");
+        System.out.println("branch_new4");
+        System.out.println("branch_new5");
 
     }
 }
