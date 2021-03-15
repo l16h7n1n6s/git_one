@@ -10,11 +10,8 @@ public class Main {
         System.out.println("feature_branch");
         System.out.println("feature_branch2");
 
-<<<<<<< HEAD
         System.out.println("master_branch");
-=======
         System.out.println("branch_new");
->>>>>>> branch_new
 
     }
 }
