@@ -8,6 +8,7 @@ public class Main {
         System.out.println("third init");
 
         System.out.println("feature_branch");
+        System.out.println("feature_branch2");
 
     }
 }
